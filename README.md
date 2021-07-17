@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/icehuy/Nixus/main/README.md"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Icehuy/Nixus/main/README.md", true))()
